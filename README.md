@@ -3,7 +3,7 @@
 
 ## Work
 
-- 🔭 I’m currently working on [Kirmize](kirmize.app)
+- 🔭 I’m currently working on [Kirmize](https://kirmize.de)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
